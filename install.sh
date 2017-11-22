@@ -1,6 +1,7 @@
 # Install
 
 ```bash
+pip install dotfiles
 git clone git@github.com:stuaxo/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
